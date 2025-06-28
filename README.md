@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first website, I will be putting to use many of the skills I have/will learn(ed) through the TOP fundamentals course to create this website.
